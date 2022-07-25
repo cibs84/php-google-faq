@@ -4,6 +4,9 @@
     margin: 0;
     padding: 0;
 }
+
+
+/* COMMON */
 body {
     font-family: 'Roboto', sans-serif;
     color: #000000de;
@@ -50,6 +53,7 @@ header nav ul li {
     border-bottom: 3px solid #3367d6;
     color: #3367d6;
 }
+
 
 /* MAIN */
 main {
